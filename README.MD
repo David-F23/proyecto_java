@@ -1,1 +1,1 @@
-Repositorio para pruebas con php y git (1)
+Repositorio para pruebas con java y git (1)
