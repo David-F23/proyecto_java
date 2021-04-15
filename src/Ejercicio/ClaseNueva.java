@@ -5,6 +5,8 @@
  */
 package Ejercicio;
 
+import java.util.Scanner;
+
 /**
  *
  * @author HP
@@ -13,5 +15,6 @@ public class ClaseNueva {
     
     public static void main(String[] args) {
         
+        Scanner leer = new Scanner(System.in); 
     }
 }
